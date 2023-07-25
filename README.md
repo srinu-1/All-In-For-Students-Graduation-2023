@@ -16,10 +16,9 @@ Here are two required steps to officially be recognized as a participant of the 
 
 1. Save the date (_coming soon_ 🥳)
 2. Add your name, school, and favorite quote to the README.md following the format below. Don't forget to add the 3 dashes below to separate your name from the other students.
-  - Name: Rizel Scarlett
-  - School: Boston University
-  - Favorite Quote: The way to get started is to quit talking and begin doing. -Walt Disney
-
+  - Name: Srinivas Reddy Yeruva
+  - School: MLR Institute Of Technology
+  - Favorite Quote: The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
 _**Submissions are due Friday, March 31, 2023.**_ 
     
 ---
